@@ -3,7 +3,7 @@
 ![Header](https://github.com/parzij/parzij/blob/main/assets/NewGitLogo.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=545454&center=true&vCenter=true&width=700&height=100&lines=Hello+everyone%F0%9F%91%8B+I'm+parzij+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=545454&center=true&vCenter=true&width=700&height=100&lines=Hello+everyone%F0%9F%91%8B+I'm+visCERBERUS+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=visCERBERUS&color=blue&style=for-the-badge)
 
