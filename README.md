@@ -1,7 +1,4 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=545454&center=true&vCenter=true&width=700&height=100&lines=Hello+everyone%F0%9F%91%8B+I'm+visCERBERUS)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=visCERBERUS&color=blue&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=545454&center=true&vCenter=true&width=700&height=100&lines=Hello+everyone%F0%9F%91%8B+I'm+visCERBERUS+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Taganrog%2C%20Russia%20%7C%20SFEDU-F77F00?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=0A0A0A" alt="Location"/>
