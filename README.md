@@ -45,9 +45,8 @@
 
 ## 📚 Education & Interests
 
-- 🎓 **Student at Southern Federal University** (Major: Software Engineering/Computer Science)
-- 💡 **Interests:** Algorithms, Data Structures, Web Development, Game Development (Unreal Engine 5), Microcontrollers (Arduino, ESP)
-
+- 🎓 **Student at Southern Federal University** (Major: mathematical support and administration of information systems)
+- 💡 **Interests:** Algorithms, Data Structures, Backend Developmen, FinTech Development , blockchain, LLM modeling
 ---
 
 ## 📫 How to reach me
@@ -56,28 +55,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_erberus
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ilavalentinov087@gmail.com)
 
----
-
-<details>
-<summary>🎯 Short-term Goals</summary>
-
-- [ ] Start learning TypeScript for Frontend development
-- [ ] Learn Vitest for testing Vue components
-- [ ] Learn backend development (Next.js/TypeScript)
-- [ ] Create a full-fledged serious Frontend project
-
-</details>
-
-<details>
-<summary>🔥 Long-term Goals</summary>
-
-- [ ] Create a Fullstack project
-- [ ] Become a Fullstack developer
-- [ ] Improve my current knowledge, interests and skills
-
-</details>
-
----
 
 ## RU
 
@@ -116,9 +93,8 @@
 
 ## 📚 Образование и интересы
 
-- 🎓 **Студент Южного Федерального Университета** (Специальность: Программная инженерия/Информатика)
-- 💡 **Интересы:** Алгоритмы, Структуры данных, Веб-разработка, Разработка игр (Unreal Engine 5), Микроконтроллеры (Arduino, ESP)
-
+- 🎓 **Студент Южного Федерального Университета** (Специальность: Математическое обеспечение и администрирование информационных систем)
+- 💡 **Интересы:** Алгоритмы, Структуры данных, Backend-разработка, ФинТех разработка , LLM моделирование
 ---
 
 ## 📫 Как со мной связаться
@@ -128,26 +104,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vulkan3004)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:max_egortsev@mail.ru)
 
----
-
-<details>
-<summary>🎯 Цели на ближайшее время</summary>
-
-- [ ] Начать изучение TypeScript для Frontend - разработки
-- [ ] Освоить Vitest для тестирования Vue компонентов
-- [ ] Освоить backend разработку (Next.js/TypeScript)
-- [ ] Создать полноценный серьёзный Frontend проект
-
-</details>
-
-<details>
-<summary>🔥 Долгосрочные цели</summary>
-
-- [ ] Создать Fullstack проект
-- [ ] Стать Fullstack - разработчиком
-- [ ] Совершенствовать свои текущие знания, интересы и умения
-
-</details>
 
 ---
 
