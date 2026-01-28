@@ -25,10 +25,10 @@
 
 ### **🌐 Web Development**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-   <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
-    <img src="https://skillicons.dev/icons?i=Kotlin" title="Kotlin" height="50" />
-    <img src="https://skillicons.dev/icons?i=Java" title="Java" height="50" />
+    <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="50" />
+    <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />
 </div>
 
 ### **⚙️ Tools & Software**
@@ -76,8 +76,8 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
-    <img src="https://skillicons.dev/icons?i=Kotlin" title="Kotlin" height="50" />
-    <img src="https://skillicons.dev/icons?i=Java" title="Java" height="50" />
+    <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="50" />
+    <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />
 </div>
 
 ### **⚙️ Инструменты и ПО**
