@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=c" title="C" height="50" />
     <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />
     <img src="https://skillicons.dev/icons?i=python" title="Python" height="50" />
-    <img src="https://skillicons.dev/icons?i=csharp" title="C#" height="50" />
+    <img src="https://skillicons.dev/icons?i=cs" title="C#" height="50" />
 </div>
 
 ### **🌐 Web Development**
