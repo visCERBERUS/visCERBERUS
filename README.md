@@ -120,7 +120,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visCERBERUS&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" />
   </a>
 </p>
----
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=545454&center=true&vCenter=true&width=700&height=100&lines=See+you+later+%F0%9F%91%80)](https://git.io/typing-svg)
 ---
 
