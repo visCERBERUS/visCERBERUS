@@ -54,7 +54,7 @@
 ## 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visCERBERUS)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_erberus
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_erberus)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ilavalentinov087@gmail.com)
 
 
@@ -102,10 +102,10 @@
 
 ## 📫 Как со мной связаться
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vulkan790)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vulkan790)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vulkan3004)
-[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:max_egortsev@mail.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visCERBERUS)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_erberus)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ilavalentinov087@gmail.com)
+
 
 
 ---
