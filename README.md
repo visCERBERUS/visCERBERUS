@@ -112,7 +112,7 @@
 
 <div align="center">
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=vulkan790&color=blueviolet&label=Profile+Views)](https://github.com/vulkan790)
-[![GitHub Followers](https://img.shields.io/github/followers/vulkan790?style=social&label=Follow)](https://github.com/vulkan790)
+[![Visitor Count](https://komarev.com/ghpvc/?username=visCERBERUS&color=blueviolet&label=Profile+Views)](https://github.com/visCERBERUS)
+[![GitHub Followers](https://img.shields.io/github/followers/visCERBERUS?style=social&label=Follow)](https://github.com/visCERBERUS)
 
 </div>
