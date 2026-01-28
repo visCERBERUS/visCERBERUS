@@ -106,8 +106,20 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_erberus)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ilavalentinov087@gmail.com)
 
+---
+## **My progress 📈**
 
+<p align="left">
+  <a href="https://github.com/visCERBERUS">
+    <img src="https://github-readme-stats.vercel.app/api?username=visCERBERUS&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=visCERBERUS%20stats" />
+  </a>
+</p>
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visCERBERUS&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" />
+  </a>
+</p>
 ---
 
 <div align="center">
