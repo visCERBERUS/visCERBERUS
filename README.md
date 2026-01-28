@@ -25,10 +25,10 @@
 
 ### **🌐 Web Development**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
+   <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
-    <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
-    <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
+    <img src="https://skillicons.dev/icons?i=Kotlin" title="Kotlin" height="50" />
+    <img src="https://skillicons.dev/icons?i=Java" title="Java" height="50" />
 </div>
 
 ### **⚙️ Tools & Software**
@@ -38,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
     <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="50" />
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="macOS" height="50" />
 </div>
 
 </div>
@@ -47,7 +48,7 @@
 ## 📚 Education & Interests
 
 - 🎓 **Student at Southern Federal University** (Major: mathematical support and administration of information systems)
-- 💡 **Interests:** Algorithms, Data Structures, Backend Developmen, FinTech Development , blockchain, LLM modeling
+- 💡 **Interests:** Algorithms, Data Structures, Web Developmen, FinTech Development , blockchain, LLM modeling
 ---
 
 ## 📫 How to reach me
@@ -75,8 +76,8 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
-    <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
-    <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
+    <img src="https://skillicons.dev/icons?i=Kotlin" title="Kotlin" height="50" />
+    <img src="https://skillicons.dev/icons?i=Java" title="Java" height="50" />
 </div>
 
 ### **⚙️ Инструменты и ПО**
@@ -86,6 +87,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
     <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="50" />
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="macOS" height="50" />
 </div>
 
 </div>
