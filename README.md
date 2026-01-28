@@ -48,7 +48,7 @@
 ## 📚 Education & Interests
 
 - 🎓 **Student at Southern Federal University** (Major: mathematical support and administration of information systems)
-- 💡 **Interests:** Algorithms, Data Structures, Web Developmen, FinTech Development , blockchain, LLM modeling
+- 💡 **Interests:** Algorithms, Data Structures, Web Developmen, FinTech Development , blockchain, LLM modeling,options trading & derivatives markets,quantitative modeling, econometric modeling, computational economics
 ---
 
 ## 📫 How to reach me
@@ -97,7 +97,8 @@
 ## 📚 Образование и интересы
 
 - 🎓 **Студент Южного Федерального Университета** (Специальность: Математическое обеспечение и администрирование информационных систем)
-- 💡 **Интересы:** Алгоритмы, Структуры данных, Backend-разработка, ФинТех разработка , LLM моделирование
+- 💡 **Интересы:** Алгоритмы, Структуры данных, Backend-разработка, ФинТех разработка , LLM моделирование, опционные рынки , банковские системы , экономика , создание математических моделей в 
+экономике 
 ---
 
 ## 📫 Как со мной связаться
