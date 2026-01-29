@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=545454&center=true&vCenter=true&width=700&height=100&lines=Hello+everyone%F0%9F%91%8B+I'm+visCERBERUS)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Taganrog%2C%20Russia%20%7C%20SFEDU-F77F00?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=0A0A0A" alt="Location"/>
-  <img src="https://img.shields.io/badge/Southern%20Federal%20University-003049?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0A0A0A" alt="Student"/>
+  <a href="https://sfedu.modeus.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Taganrog%2C%20Russia%20%7C%20SFEDU-F77F00?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=0A0A0A" alt="Location"/>
+  </a>
+  <a href="https://ictis.sfedu.ru/account/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Southern%20Federal%20University-003049?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0A0A0A" alt="Student"/>
+  </a>
 </div>
 
 ![snake gif](https://github.com/vulkan790/vulkan790/blob/output/github-snake-dark.svg)
